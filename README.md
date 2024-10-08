@@ -10,10 +10,10 @@ Buttons when pressed will give a haptic feedback, that can be toggled on or off 
 
 Small info button at the top-right corner will display application name, short description, and URL to this GitHub repository.
 
-## How to execute this project in your local machine
-Step1:- Clone this repository (or) Download Zip Folder containing all these codes
-Step2:- Just go to editor in your editor(Visual Studio Code) preferably.
-Step3:- Then just simply run the given application to see the output
+## Usage
+- Clone the repo: `git clone https://github.com/ExclMark/SwiftTicTacToe.git` or download the zip.
+- Open the directory in XCode
+- Run the code
 
 # Preview:
 Player vs AI | Player vs Player
